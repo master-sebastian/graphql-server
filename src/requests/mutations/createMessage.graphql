@@ -1,0 +1,10 @@
+mutation {
+  createMessage(message: "Hello world"){
+    create_message_response{
+      _id,
+      text,
+      created_at
+    },
+    status
+  }
+}

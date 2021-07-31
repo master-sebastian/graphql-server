@@ -1,0 +1,9 @@
+query {
+  getMessage{
+    get_message_response{
+      _id,
+      text,
+      created_at
+    }
+  }
+}
