@@ -1,5 +1,4 @@
 node_modules
 package-lock.json
-src/env.js
 src/env.ts
 dist/
